@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hello there! I'm Asset, a backend developer with a strong background in Python, Django, FastAPI, PostgreSQL, Redis, and more.<br><br>I am experienced in developing scalable, reliable, and efficient systems with a focus on performance optimization and clean code. I have a deep understanding of Linux, Docker, Git, Celery, async programming, REST API, and WebSockets.<br><br>I enjoy working on projects that solve real-world problems and have a positive impact on people's lives. My goal is to build high-quality software that meets the needs of both end-users and developers.<br><br>If you're interested, please take a look at my GitHub repositories to see some of my latest work. If you have any questions or want to chat, feel free to get in touch!<br><br>
 
 # 💻 Tech Stack:
